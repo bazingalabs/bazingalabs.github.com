@@ -29,15 +29,19 @@ body {
   text-align: center; /* center align it with the container */
 }
 
+.brand {
+	height: 50px;
+}
+
 .brand #bazingalabs-logo {
 	float: left;
-	position: absolute;
-	left: 20px;
+	position: relative;
+	left: -65px;
 	top:0px;
 }
 
 .brand #bazingalabs-text {
-	margin-left: 50px;
+	margin-left: -70px;
 	margin-top:5px;
 }
 
