@@ -32,7 +32,7 @@
         <div class="container">
           <a class="brand" href="{{ HOME_PATH }}"><img id="bazingalabs-logo" src="/assets/themes/twitter/images/bazingalabs-logo.png" /><img id="bazingalabs-text" src="/assets/themes/twitter/images/bazingalabs-text.png" /></a>
           <ul class="nav">
-            {% assign pages_list = site.pages %}
+            {% assign pages_list = {{ site.pages | sort }} %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
           </ul>
