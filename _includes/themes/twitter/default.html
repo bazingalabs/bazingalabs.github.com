@@ -15,6 +15,8 @@
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="{{ ASSET_PATH }}/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
     <link href="{{ ASSET_PATH }}/css/fonts/stylesheet.css?body=1" rel="stylesheet" type="text/css" media="all">
+    <script type="text/javascript" src="{{ ASSET_PATH }}/javascript/jquery-1.7.2.min.js"></script>
+    <script type="text/javascript" src="{{ ASSET_PATH }}/javascript/bootstrap-dropdown.js"></script>
 
     <!-- Le fav and touch icons -->
   <!-- Update these with your own images
@@ -26,15 +28,38 @@
   </head>
 
   <body>
-
     <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
           <a class="brand" href="{{ HOME_PATH }}"><img id="bazingalabs-logo" src="/assets/themes/twitter/images/bazingalabs-logo.png" /><img id="bazingalabs-text" src="/assets/themes/twitter/images/bazingalabs-text.png" /></a>
           <ul class="nav">
-            {% assign pages_list = site.pages | sort %}
-            {% assign group = 'navigation' %}
-            {% include JB/pages_list %}
+            {% if page.url ==  '/aboutus.html' %}
+            <li class="active"><a href="{{ BASE_PATH }}aboutus.html" class="active">About us</a></li>
+            {% else %}
+            <li><a href="{{ BASE_PATH }}aboutus.html">About us</a></li>
+            {% endif %}
+
+            {% if page.url ==  '/stacky.html' %}
+            <li class="active"><a href="{{ BASE_PATH }}stacky.html" class="active">Stacky</a></li>
+            {% else %}
+            <li><a href="{{ BASE_PATH }}stacky.html">Stacky</a></li>
+            {% endif %}
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                <b class="caret"></b>
+              </a>
+              <ul class="dropdown-menu">
+                {% assign pages_list = site.pages | sort %}
+                {% assign group = 'stacky' %}
+                {% include JB/pages_list %}
+              </ul>
+            </li>
+            {% if page.url ==  '/tutorials.html' %}
+            <li class="active"><a href="{{ BASE_PATH }}tutorials.html" class="active">Tutorials</a></li>
+            {% else %}
+            <li><a href="{{ BASE_PATH }}tutorials.html">Tutorials</a></li>
+            {% endif %}
+
           </ul>
         </div>
       </div>
