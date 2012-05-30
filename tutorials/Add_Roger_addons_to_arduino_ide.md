@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Add Roger addons to arduino ide
-header: The Bazingalabs Proger
+header: Add Roger addons to Arduino IDE
 group: tutorials
 tags: [roger]
 ---

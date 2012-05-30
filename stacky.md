@@ -3,6 +3,7 @@ layout: page
 title: Stacky
 header: Stacky
 group: navigation
+image: stacky.png
 tagline: The ultimate electronics development platform!
 ---
 {% include JB/setup %}
