@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Stacky
-header: Stacky
+title: STACKY
+header: STACKY
 group: navigation
 image: stacky.png
 tagline: The ultimate electronics development platform!

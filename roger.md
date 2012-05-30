@@ -1,7 +1,7 @@
 ---
 layout: product
-title: Roger 
-header: Roger
+title: ROGER 
+header: ROGER
 group: stacky
 image: roger.jpg
 datasheet: https://docs.google.com/document/d/1Cr4c4q6j_cDXsXKw6lyRArSO1jkTx16a0fktuN1mYJc/edit

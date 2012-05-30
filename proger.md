@@ -1,7 +1,7 @@
 ---
 layout: product
-title: Proger 
-header: Proger
+title: PROGER 
+header: PROGER
 group: stacky
 image: proger.jpg
 datasheet: https://docs.google.com/document/d/1uePK5Xe_qHIno7bMTQJNrgtJw55g1fiSwMcF_JY_qMI/edit
