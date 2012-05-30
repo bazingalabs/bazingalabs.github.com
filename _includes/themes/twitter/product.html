@@ -1,0 +1,49 @@
+<div class="page-header">
+  <h1>{{ page.header }} {% if page.tagline %} <small>{{ page.tagline }}</small>{% endif %}</h1>
+</div>
+<div class="row">
+  <div class="span9">
+    {{ content }}
+  </div>
+  <div class="span2">
+  	<img src="{{ASSET_PATH}}twitter/images/{{ page.image }}" />
+  </div>
+</div>
+
+<h2>Downloads</h2>
+<ul>
+	<li><a href="{{ page.datasheet }}">Datasheet</a></li>
+	{% for link_hash in page.downloads %}
+  		{% for link in link_hash %}
+    		<li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+  		{% endfor %}
+	{% endfor %}
+</ul>
+<h2>Links</h2>
+<ul>
+	{% for link_hash in page.links %}
+  		{% for link in link_hash %}
+    		<li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+  		{% endfor %}
+	{% endfor %}
+</ul>
+{% for node in site.pages %}
+  {% if node.title != null %}
+    {% if "tutorials" == node.group and node.tags contains page.tutorial_tag %}
+      {% assign tut_found = true %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+{% if tut_found != nil %}
+<h2>Tutorials</h2>
+{% endif %}
+<ul>
+{% for node in site.pages %}
+  {% if node.title != null %}
+    {% if "tutorials" == node.group and node.tags contains page.tutorial_tag %}
+      <li><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</ul>
+{% include JB/comments %}
