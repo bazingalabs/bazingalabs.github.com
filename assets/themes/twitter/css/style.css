@@ -37,11 +37,11 @@ body {
 	float: left;
 	position: relative;
 	left: -65px;
-	top:0px;
+	top:-15px;
 }
 
 .brand #bazingalabs-text {
-	margin-left: -70px;
+	margin-left: -80px;
 	margin-top:5px;
 }
 
