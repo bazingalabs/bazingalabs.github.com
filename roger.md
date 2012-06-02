@@ -7,7 +7,7 @@ image: roger.jpg
 datasheet: https://docs.google.com/document/d/1Cr4c4q6j_cDXsXKw6lyRArSO1jkTx16a0fktuN1mYJc/edit
 downloads:
   - Latest firmware: https://github.com/bazingalabs/rogerfirmware/zipball/master
-  - Schematic: http://files.bazingalabs.com/datasheets/ROGERv2.pdf
+  - Schematic: http://files.bazingalabs.com/schematics/ROGERv2.pdf
 links:
   - Firmware on github: https://github.com/bazingalabs/rogerfirmware
 tagline: Communicate wirelessly
