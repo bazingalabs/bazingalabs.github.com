@@ -7,6 +7,7 @@ image: proger.jpg
 datasheet: https://docs.google.com/document/d/1uePK5Xe_qHIno7bMTQJNrgtJw55g1fiSwMcF_JY_qMI/edit
 downloads:
   - Latest firmware: https://github.com/bazingalabs/progerfirmware/zipball/master
+  - Schematic: http://files.bazingalabs/schematics/PROGERv2.pdf
 links:
   - Firmware on github: https://github.com/bazingalabs/progerfirmware
 tagline: Program that stack! 
