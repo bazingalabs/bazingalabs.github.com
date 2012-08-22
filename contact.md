@@ -9,11 +9,16 @@ header: Bazingalabs
 
 Use the following details to get in touch with us.
 
-*Email:*
+**Email:**
+
 info at bazingalabs.eu
-*Adress:* 
+
+**Adress:** 
+
 V.O.F. Bazinga Labs
 Borgerderstraat 1
 9536PA Ees
-*Phone:*
+
+**Phone:**
+
 +31(0)654972151   
