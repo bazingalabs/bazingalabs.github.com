@@ -13,11 +13,15 @@ Use the following details to get in touch with us.
 
 info at bazingalabs.eu
 
+
 **Adress:** 
 
 V.O.F. Bazinga Labs
+
 Borgerderstraat 1
+
 9536PA Ees
+
 
 **Phone:**
 
