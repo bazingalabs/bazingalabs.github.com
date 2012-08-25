@@ -19,6 +19,10 @@ body {
 
 }
 
+strong {
+  font-weight: bold;	
+}
+
 .navbar {
   margin-bottom: 0;
 }
