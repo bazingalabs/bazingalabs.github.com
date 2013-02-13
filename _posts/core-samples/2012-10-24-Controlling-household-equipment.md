@@ -5,7 +5,7 @@ tags : [bazingalabs, controlling the household, roger]
 ---
 {% include JB/setup %}
 
-Using the Roger to control household equipment
+Using the Roger to control household equipment...
 
 Today we added support for a product you may all know quite well the cheap remote socket switch.
 This switch can be bought in any household store and costs around 10~15 euro.
