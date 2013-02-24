@@ -6,8 +6,6 @@ tags : [bazingalabs, new products]
 {% include JB/setup %}
 
 
-<img src="http://bazingalabs.com//assets/themes/twitter/images/stacky.png">
-
 
 Bazingalabs just sent out a couple of new STACKY board designs. 
 
@@ -31,4 +29,4 @@ without the need of resetting, disconnecting or flipping any switches on any STA
 --> MITCHv3: short for "MITCH THE SWITCH". This board will allow you to switch high powers.
 Combined with a ROGERv3 board that would make a wireless switch! 
 
-
+<img src="http://bazingalabs.com//assets/themes/twitter/images/stacky.png">
