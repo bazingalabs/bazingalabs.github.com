@@ -5,7 +5,6 @@ tags : [bazingalabs, new products]
 ---
 {% include JB/setup %}
 
-<<<<<<< HEAD
 <img src="http://bazingalabs.com//assets/themes/twitter/images/stacky.png">
 
 Bazingalabs just sent out a couple of new STACKY board designs. 
@@ -21,16 +20,5 @@ discharge current limit (short protection), charge from USB, charge through STAC
 STACKY board-to-board communications realtime and program any board in the STACKY config. All of this
 without the need of resetting, disconnecting or flipping any switches on any STACKY board!
 
-=======
-Bazingalabs just sent out a couple of new STACKY board designs. 
-
-We'll soon be testing our designs for the following boards:
---> BATTYBOYv3. This board is essentially a LiPo battery. Features are: deep discharge protection,
-discharge current limit (short protection), charge from USB, charge through STACKY, overcharge protection. 
---> ROGERv3: wireless communication. STACKY compatible as well as XBEE compatible! 
---> PROGERv3: allows you to hook up any STACKY configuration to your computer through USB, sniff all
-STACKY board-to-board communications realtime and program any board in the STACKY config. All of this
-without the need of resetting, disconnecting or flipping any switches on any STACKY board!
->>>>>>> parent of ec6df20... Update _posts/core-samples/2012-12-19-STACKY-prototype-designs-on-their-way!.md
 --> MITCHv3: short for "MITCH THE SWITCH". This board will allow you to switch high powers.
 Combined with a ROGERv3 board that would make a wireless switch! 
