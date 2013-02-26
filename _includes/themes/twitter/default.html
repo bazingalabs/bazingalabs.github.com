@@ -48,9 +48,9 @@
                 <b class="caret"></b>
               </a>
               <ul class="dropdown-menu">
-                {% assign pages_list = site.pages | sort %}
-                {% assign group = 'stacky' %}
-                {% include JB/pages_list %}
+                  {% assign pages_list = site.pages %}
+                  {% assign group = 'stacky' %}
+                  {% include JB/pages_list %}
               </ul>
             </li>
             {% if page.url ==  '/tutorials.html' %}
