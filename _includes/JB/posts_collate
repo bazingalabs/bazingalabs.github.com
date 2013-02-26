@@ -36,18 +36,21 @@ Usage:
     <h3>{{ post.date | date: "%B %e, %Y" }}</h3>
 
     {{ post.content | truncatewords: 100 }} <a href="{{ BASE_PATH }}{{ post.url }}">Read more</a>
+	  <br>  <br>
   
     {% if forloop.last %}
       </ul>
     {% else %}
       {% if this_year != next_year %}
         </ul>
+		  <br><br>
         <h2>{{next_year}}</h2>
         <h3>{{next_month}}</h3>
         <ul>
       {% else %}    
         {% if this_month != next_month %}
           </ul>
+		    <br><br>
           <h3>{{next_month}}</h3>
           <ul>
         {% endif %}
