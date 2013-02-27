@@ -26,7 +26,6 @@ Build your electronics project in 3 simple steps:
 
 	* GEORGES (GORGEOUS GEORGES): power supply board. Hook up any DC voltage source between 0-30V and it'll power the entire STACKY.
 
-<font color="#C0C0C0">	
 	* SUNSPARK: provide solar energy from a solar panel to your STACKY and/or charge the BATTYBOY battery board with solar energy!
 
 	* MITCH (THE SWITCH): MITCH is a SWITCH (relay) which will allow you to switch on and off high power, high voltage (think a couple of 100 volts) sources. Fridges, lamps, computers, 
@@ -34,7 +33,7 @@ Build your electronics project in 3 simple steps:
 	* BRAINIAL: a processing board. This is where you tell all the other boards in STACKY what you want them to do!
 	
 	* RIGGME: want to develop your own board? The RIGGME will make development easy!
-</font>
+
 
 2. Stack them on top of one another
 
