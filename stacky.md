@@ -14,15 +14,13 @@ Build your electronics project in 3 simple steps:
 
 1. Choose the functionality you need for your project. We'll have the following STACKY boards soon:
 
-	* [PROGER](/proger.html): will enable you to program any STACKY board using a simple USB connection and will allow you to see what all of the different boards in STACKY are saying to each other LIVE!
+	* [PROGER](/proger.html): enables you to program any STACKY board using a simple USB connection and will allow you to see what all of the different boards in STACKY are saying to each other LIVE!
 
-	* [ROGER](/roger.html): add wireless functionality to STACKY.
+	* [ROGER](/roger.html): adds wireless functionality to STACKY.
 
-	* TYRONE: a quadcopter platform for brushless motors. Incorporates control systems which makes the platform accept simple commands like "hover, go forward, turn, strafe, speed" Make STACKY fly!
+	* BATTYBOY: provides mobile energy to your STACKY. Includes a LiPo battery, integrated charging circuit and battery protection.
 
-	* BATTYBOY: provides energy to your STACKY. Includes a LiPo battery, integrated charging circuit and battery protection.
-
-	* SUNSPARK: provide solar energy from a solar panel to your STACKY and/or charge the BATTYBOY battery board with solar 	energy!
+<font color="#C0C0C0">	* SUNSPARK: provide solar energy from a solar panel to your STACKY and/or charge the BATTYBOY battery board with solar energy!</font>
 	
 	* BRAINIAL: a processing board. This is where you tell all the other boards in STACKY what you want them to do!
 	
