@@ -7,7 +7,7 @@ tagline: The ultimate electronics development platform!
 ---
 {% include JB/setup %}
 
-<img src="/images/easystacky.png" alt="STACKY rendering" width="80%">
+<img src="/images/easystacky.png" alt="STACKY rendering" width="100%">
 
 The Bazingalabs STACKY concept will enable you to build your electronics project quicker, cheaper and easier than ever before! 
 Build your electronics project in 3 simple steps: 
