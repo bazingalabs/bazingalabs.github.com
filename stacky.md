@@ -7,7 +7,7 @@ tagline: The ultimate electronics development platform!
 ---
 {% include JB/setup %}
 
-<img src="/images/easystacky.png" alt="STACKY in 3 easy steps" width="100%">
+<img src="/images/easystacky.png" alt="stacked electronics" width="100%">
 
 The Bazingalabs STACKY stacked electronics concept will enable you to build your electronics project quicker, cheaper and easier than ever before! 
 Build your electronics project in 3 simple steps: 
@@ -43,4 +43,4 @@ Build your electronics project in 3 simple steps:
 
 Got idea for other boards or wanna contribute? EMAIL US!! info [at] bazingalabs.com!! 
 
-<img src="/images/stackedstacky.jpg" alt="STACKY rendering" width="100%">
+<img src="/images/stackedstacky.jpg" alt="stacked electronics development" width="100%">
