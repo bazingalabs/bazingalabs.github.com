@@ -9,7 +9,7 @@ tagline: The ultimate electronics development platform!
 
 <img src="/images/easystacky.png" alt="STACKY in 3 easy steps" width="100%">
 
-The Bazingalabs STACKY concept will enable you to build your electronics project quicker, cheaper and easier than ever before! 
+The Bazingalabs STACKY stacked electronics concept will enable you to build your electronics project quicker, cheaper and easier than ever before! 
 Build your electronics project in 3 simple steps: 
 
 1. Choose the functionality you need for your project. We'll have the following STACKY boards soon:
