@@ -7,7 +7,7 @@ header: Bazingalabs
 ---
 {% include JB/setup %}
 
-Bazingalabs is a company that focuses on making building blocks you need to easily make your electronics projects possible.
+###Bazingalabs is a company that focuses on making building blocks you need to easily make your electronics projects possible.
 
 Our main activity is to design open source hardware and software. In the future we will seed, grow and support the community that will hopefully start developing around us. We will do so by providing online courses in topics such as product design, electronics engineering, mechanical engineering, etc. As well as by providing a place for people to post about their DIY or commercial projects, collaborate and share experiences and information. 
 

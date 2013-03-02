@@ -41,6 +41,6 @@ Build your electronics project in 3 simple steps:
 
 ===============
 
-Got idea for other boards or wanna contribute? EMAIL US!! info [at] bazingalabs.com!! 
+Got idea for other boards or do you want to contribute? EMAIL US!! info@bazingalabs.eu 
 
 <img src="/images/stackedstacky.jpg" alt="stacked electronics development" width="100%">
