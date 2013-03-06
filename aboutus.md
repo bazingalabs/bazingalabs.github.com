@@ -18,6 +18,9 @@ We at Bazingalabs believe that the step between having a cool product idea and t
 ###Meet the guys behind Bazinga Labs
 <img src="/images/Bazingalabs men.jpg" alt="The guys behind Bazinga Labs" width="100%">
 Busy working on STACKY from left to right: 
+
 	* Arjen: electronics hardware designer.
+
 	* Georges: same as Arjen.
+
 	* Erik: writes all software; website, embedded and PC/Mac stuff. 
