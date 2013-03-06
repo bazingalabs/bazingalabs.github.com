@@ -7,9 +7,18 @@ header: Bazingalabs
 ---
 {% include JB/setup %}
 
-###Bazingalabs is a company that focuses on making building blocks you need to easily make your electronics projects possible.
+###Meet the guys behind Bazinga Labs
+<img src="/images/Bazingalabs men.jpg" alt="The guys behind Bazinga Labs" width="100%">
+Busy working on STACKY from left to right: 
 
-Our main activity is to design open source hardware and software. In the future we will seed, grow and support the community that will hopefully start developing around us. We will do so by providing online courses in topics such as product design, electronics engineering, mechanical engineering, etc. As well as by providing a place for people to post about their DIY or commercial projects, collaborate and share experiences and information. 
+Arjen: electronics hardware designer.
+
+Georges: same as Arjen.
+
+Erik: writes all software; website, embedded and PC/Mac stuff. 
+
+###Bazingalabs makes electronics creation easier! 
+Our main activity is to design open source hardware and software allowing quicker and easier electronics design. In the future we will seed, grow and support the community that will hopefully start developing around us. We will do so by providing online courses in topics such as product design, electronics engineering, mechanical engineering, etc. As well as by providing a place for people to post about their DIY or commercial projects, collaborate and share experiences and information. 
 
 
 ###Our mission: easy product design for everyone!
