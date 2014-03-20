@@ -38,8 +38,6 @@ Build your electronics project in 3 simple steps:
 
 3. Hook your STACKY up to your PC or Mac's USB-port and program away!
 
-===============
-
 Got idea for other boards or do you want to contribute? EMAIL US!! info@bazingalabs.eu 
 
 ![stacked electronics development](images/stackedstacky.jpg)
